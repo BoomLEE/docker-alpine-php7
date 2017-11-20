@@ -1,5 +1,5 @@
 # Use Alpine Linux
-FROM alpine:edge
+FROM alpine:latest
 
 # Maintainer
 MAINTAINER DAEBUM LEE <deabum1@gmail.com>
