@@ -1,5 +1,3 @@
-Dockerfile
-
 # Use Alpine Linux
 FROM alpine:edge
 
